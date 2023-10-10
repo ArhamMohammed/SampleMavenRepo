@@ -1,0 +1,67 @@
+
+Level - 1 Questions
+
+1.  What is Java ? List out the Features of Java.
+2.  How to implement/achieve OOPS in Java.
+3.  What is a Class ?
+4.  What is a Object ?
+5.  Difference between class and Object.
+6.  What is instantiation ?
+7.  What is initilization ? List out the different ways of it.
+8.  What is Constructor ? List out the functionality of it.
+9.  Why Constructor is a special method ?
+10. What is Overloading ? List out the types of overloading.
+11. What is Constructor Overloading ?
+12. What is method Overloading ?
+13. What is Inheritance ? List out the Types of Inheritance.
+14. Which inheritance type is not allowed ? Give Explanation.
+15. What is this Keyword ? List out the properties of this keyword.
+16. Explain the working of this keyword with an example.
+17. What is super keyword ? Explain with an example.
+18. What is constructor calling ? Explain with an example.
+19. What is constructor Chaining ? Explain with an example.
+20. Why to Perform Constructor Chaining ?
+21. Why is Constructor is mandatory in a class ?
+22. Write a Program to show constructor calling and chaining in the same program.
+23. What is a package ? Explain the importance of package.
+24. Explain the concept of Data Encapsulation with an example.
+25. What is data Hiding ?
+26. What is abstract method ?
+27. What is a abstract class ? What is not allowed for a abstract class.
+28. When to go for abstract method and abstract class ?
+29. What is an interface ?
+30. List out few differences between a class and a Interface.
+31. What is Loose Coupling ? Explain with an example.
+32. What is Type Casting ? Explain Different types of Type Casting.
+33. Explain advantage of Generalization with the help of an example.
+34. What is Overriding ? When to perform overriding.
+35. When to go for Overriding and when to go for overloading.
+36. What is Abstraction ? Explain the steps to Achieve abstraction.
+37. What is Polymorphism ? Explain the different types of Polymorphism.
+38. What is Object class ? Why its the supermost class.
+39. What is String ? What is Immutibility.
+40. Explain what is exception.
+41. What is Exception Handling.
+42. What is try,catch and finally block is used.
+43. What's the importance of throw and throws.
+44. Difference between checked and unchecked Exception.
+45. What is Collection Framework Library. Explain the Hierarchy.
+46. What is Multi-Threading ?
+47. What is a Thread ?
+48. Explaing Thread Life Cycle.
+
+Level - 2 Questions
+
+Different Possible Scenarios with the Above topics.
+
+
+Mock Ratings
+------------
+
+3  --> Re-mock. Really Bad Performance. Needs to work Extra Hard
+2  --> Needs Couple of more mocks to be better.
+2* --> Almost Good Enough. Put in the work.
+1  --> Good But can do Better.
+*  --> Very Good keep up the Good Work.
+
+
